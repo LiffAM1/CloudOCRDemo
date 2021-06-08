@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662700842019",
+    "project_id": "cloudocrdemo-cb2a0",
+    "storage_bucket": "cloudocrdemo-cb2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662700842019:android:3a3e7cebac2eb0669fe596",
+        "android_client_info": {
+          "package_name": "com.csci6905.demos.cloudocrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662700842019-evqs5d16cfe7s29cevd1n6orjpuc4v84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AQLgt1dRu_fUVToFI_IbgtZbndfklnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662700842019-evqs5d16cfe7s29cevd1n6orjpuc4v84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
